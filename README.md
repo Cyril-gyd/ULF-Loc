@@ -5,7 +5,7 @@
 <a href="https://arxiv.org/abs/2605.04730" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/arXiv-2605.04730-b31b1b.svg?logo=arXiv" alt="arXiv">
 </a>
-<a href="" target="_blank">
+<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Gu_ULF-Loc_Unbiased_Landmark_Feature_for_Robust_Visual_Localization_with_3D_CVPR_2026_paper.html" target="_blank">
   <img src="https://img.shields.io/badge/Paper-ULFLoc-green.svg" alt="Paper ULF-Loc">
 </a>
 <a href="https://github.com/Cyril-gyd/ULF-Loc" target="_blank">
